@@ -1,15 +1,14 @@
-# Assignment1#Assignment Task 1
-'''a=input('Enter First Number:')
-a=int(a)
-b=input('Enter Second Number:')
-b=int(b)
-print('Enter your First Number:',a)
-print('Enter your Second Number:',b)
-print('sum of two number:',a+b)
-print('Difference of two number:',a-b)
-print('Multiplication of two number:',b*a)
-print('Division of two number:',a/b)'''
-#Assignment Task 2
-a=input('Enter your first name:')
-b=input('Enter your last name:')
-print("Hello,\t" + a+" "+b + "!\twelcome to the python program")
+Assignment Task 1
+In the first line, i have taken a variable 'a' in which the input of first number has to be done
+In the second line, i have kept it as integer, we can also keep it as float   
+In the third line, i have taken a variable 'b' in which the input of second number has to be done
+In the fourth line, i have kept it as integer, we can also keep it as float
+In the fifth line, the string "Enter your first number:" will come as output, where user will enter first  number
+In the sixth line, the string "Enter your second number:" will come as output, where user will enter second number
+SUbsequently the add substraction multiplication and division will be done
+
+Assignment Task 2
+
+In the first line, i have taken a variable 'a' in which the input of first name has to be done
+In the second line, i have taken a variable 'b' in which the input of second name has to be done
+To print the name with the message i have taken string "hello," \t given for space and then to print the name i have placed variable a  + variable b with blank quote to keep gap between first and last name than welcome message string is printed as output
